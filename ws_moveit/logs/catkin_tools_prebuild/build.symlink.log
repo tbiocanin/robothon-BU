@@ -1,0 +1,12 @@
+Symlinking /root/robothon-BU/ws_moveit/devel/./setup.bash
+Symlinking /root/robothon-BU/ws_moveit/devel/./_setup_util.py
+Symlinking /root/robothon-BU/ws_moveit/devel/./local_setup.sh
+Symlinking /root/robothon-BU/ws_moveit/devel/./cmake.lock
+Symlinking /root/robothon-BU/ws_moveit/devel/./env.sh
+Symlinking /root/robothon-BU/ws_moveit/devel/./local_setup.bash
+Symlinking /root/robothon-BU/ws_moveit/devel/./setup.zsh
+Symlinking /root/robothon-BU/ws_moveit/devel/./local_setup.zsh
+Symlinking /root/robothon-BU/ws_moveit/devel/./setup.sh
+Symlinking /root/robothon-BU/ws_moveit/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /root/robothon-BU/ws_moveit/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /root/robothon-BU/ws_moveit/devel/lib/pkgconfig/catkin_tools_prebuild.pc
