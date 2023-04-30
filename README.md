@@ -19,6 +19,7 @@ The Panda API is based on the moveit framework for planning and robot connection
 ### Equipment
 
 -Franka Emika Panda robot system with factory built-in force and torque sensors.
+
 -Ordinary webcam(logitech webcam C270)
 
 ### Instalation 
