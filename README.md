@@ -82,6 +82,7 @@ Based on the board configuration, an approach was defined in which we focused on
 slider_detect.py
 
 To define how much the slider should move, a similar approach was used so that data about the desired position is extracted. Based on the slider length, and the length represented on the display, the desired positions are determined. 
+
 ---
 
 ## Unit testing functionalities
